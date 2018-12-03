@@ -1,0 +1,38 @@
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.container {
+    background-color: #ffffff; 
+}
+
+.display-4 {
+    text-align: center; 
+}
+
+.lead {
+    text-align: center;
+}
+
+.container-main {
+    background-color: #ffffff; 
+    margin-left: 20%; 
+    margin-right: 20%;
+}
+
+.container2 {
+    float: left; 
+    max-width: 100%;  
+    margin-right: 15px; 
+    text-align: right; 
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto; 
+}
+
+.container3 {
+    background-color: #ffffff; 
+    width: 100%;
+}
